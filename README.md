@@ -22,7 +22,7 @@
 
 Tecnologias usadas neste projeto:
 
-- [Javascript]
+- [Javascript](https://www.javascript.com/)
 - [Node.js](https://nodejs.org/en/)
 - [Express](https://expressjs.com/pt-br/)
 - [SQLite](https://www.sqlite.org/index.html)
